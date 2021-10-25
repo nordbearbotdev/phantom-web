@@ -7,7 +7,7 @@ https://web.phantom.org
 
 Phantom Web establishes a connection between Desktop and mobile device using [WebRTC] (Android) or encrypted WebSockets (iOS). Signaling and data is end-to-end encrypted with SaltyRTC.
 
-For more information, see the Threema Cryptography Whitepaper.
+For more information, see the Phantom Cryptography Whitepaper.
 
 
 # Authors
