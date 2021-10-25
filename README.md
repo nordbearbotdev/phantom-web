@@ -5,4 +5,5 @@
 # Authors
 
 [Sublime.js](https://github.com/MISHA35656)
+
 [nordbearbot](https://github.com/nordbearbotdev)
