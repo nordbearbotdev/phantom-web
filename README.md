@@ -14,8 +14,8 @@ For more information, see the Threema Cryptography Whitepaper.
 
 For more information check [AUTHORS.md](https://github.com/nordbearbotdev/phantom-web/AUTHORS.md/)
 
-[Sublime.js](https://github.com/MISHA35656)
+[Sublime.js](https://github.com/MISHA35656) ( Front-end)
 
-[nordbearbot](https://github.com/nordbearbotdev) 
+[nordbearbot](https://github.com/nordbearbotdev) ( Back-end)
 
 
